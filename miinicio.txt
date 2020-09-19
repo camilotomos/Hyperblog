@@ -7,3 +7,5 @@ diseño de metabit
 agrrgandos cambios esto lo borro despues 
 
 es solo para probar git
+
+CEO de sincronizacionweb
